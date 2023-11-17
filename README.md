@@ -50,9 +50,9 @@ Neste projeto, verificamos se você é capaz de:
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:tryber/csharp-0x-projeto-trybank.git`.
+  - Use o comando: `git clone git@github.com:tryber/csharp-030-csharp-projeto-trybank.git`.
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd csharp-0x-projeto-trybank`
+    - `cd csharp-030-csharp-projeto-trybank`
 
   2. Instale as dependências
   
@@ -67,7 +67,7 @@ Neste projeto, verificamos se você é capaz de:
     - Exemplo: `git checkout master`
   - Agora crie uma branch à qual você vai submeter os `commits` do seu projeto.
     - Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
-    - Exemplo: `git checkout -b joaozinho-csharp-0x-projeto-trybank`
+    - Exemplo: `git checkout -b joaozinho-csharp-030-csharp-projeto-trybank`
 
   4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
 
@@ -84,11 +84,11 @@ Neste projeto, verificamos se você é capaz de:
 
   5. Adicione a sua branch com o novo `commit` ao repositório remoto
 
-  - Usando o exemplo anterior: `git push -u origin joaozinho-csharp-0x-projeto-trybank`.
+  - Usando o exemplo anterior: `git push -u origin joaozinho-csharp-030-csharp-projeto-trybank`.
 
   6. Crie um novo `Pull Request` _(PR)_
 
-  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/csharp-0x-projeto-trybank/pulls).
+  - Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/csharp-030-csharp-projeto-trybank/pulls).
   - Clique no botão verde _"New pull request"_.
   - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**.
   - Coloque um título para a sua _Pull Request_.
@@ -96,7 +96,7 @@ Neste projeto, verificamos se você é capaz de:
   - Clique no botão verde _"Create pull request"_.
   - Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_.
   - **Não se preocupe em preencher mais nada por enquanto!**.
-  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/csharp-0x-projeto-trybank/pulls) e confira que o seu _Pull Request_ está criado.
+  - Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/csharp-030-csharp-projeto-trybank/pulls) e confira que o seu _Pull Request_ está criado.
 
 </details>
 
@@ -127,7 +127,7 @@ Neste projeto, verificamos se você é capaz de:
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-030-csharp`.
 
   Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
@@ -402,7 +402,7 @@ Será testado que ao chamar o método implementado, o mesmo diminua o saldo da c
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário.
 **Leva menos de 3 minutos!**
 
-[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH)
+[Formulário de avaliação do projeto](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH30-CSHARP&template=betrybe/csharp-0x-projeto-trybank)
 
 </details>
   
