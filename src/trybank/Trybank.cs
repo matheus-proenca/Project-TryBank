@@ -27,7 +27,7 @@ public class TrybankLib
         throw new NotImplementedException();
     }
 
-    // 2. Construa a funcionalidade de fazer Login
+    // 2. Construa a funcionalidade de fazer Logins
     public void Login(int number, int agency, int pass)
     {
         throw new NotImplementedException();
@@ -42,7 +42,7 @@ public class TrybankLib
     // 4. Construa a funcionalidade de checar o saldo
     public int CheckBalance()
     {
-        throw new NotImplementedException();   
+        throw new NotImplementedException();
     }
 
     // 5. Construa a funcionalidade de depositar dinheiro
@@ -63,5 +63,5 @@ public class TrybankLib
         throw new NotImplementedException();
     }
 
-   
+
 }
